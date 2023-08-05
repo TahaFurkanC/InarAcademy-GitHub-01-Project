@@ -4,3 +4,6 @@ Initial notes:
 -Gather data and resources
 -Define project milestones
 -Start initial implemantation
+-Conduct testing and debugging
+-Finalize project documentation
+-Submit project for review
